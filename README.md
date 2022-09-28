@@ -1,6 +1,8 @@
-# - 金陵科技学院 健康打卡
+# - JIT-health-AUTO
 
-+ python  selenium  自动化打卡金陵科技学院
+金陵科技学院 健康打卡
+
++ python  selenium  自动化打卡
 
 ### 环境
 
